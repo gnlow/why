@@ -55,4 +55,11 @@ $$
 
 ## BPM Detection 알고리즘?
 
+## 수렵채집인은 어떻게 생활했을까?
+
+- Levy Walk
+- Dunbar's Number
+
+## 강은 어떻게 국경이 되는가?
+
 ##
